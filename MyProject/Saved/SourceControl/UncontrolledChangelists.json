@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/isanr/Documents/GitHub/Unreal5Egibide2023/MyProject/Content/TowerDefense/Navigation/BP_PathArea.uasset",
+				"C:/Users/isanr/Documents/GitHub/Unreal5Egibide2023/MyProject/Content/TowerDefense/Navigation/BP_EnemyNavFilter.uasset",
+				"C:/Users/isanr/Documents/GitHub/Unreal5Egibide2023/MyProject/Content/TowerDefense/Enemies/BP_BaseEnemy.uasset",
+				"C:/Users/isanr/Documents/GitHub/Unreal5Egibide2023/MyProject/Content/TowerDefense/Enemies/AIC_Enemy.uasset",
+				"C:/Users/isanr/Documents/GitHub/Unreal5Egibide2023/MyProject/Content/TowerDefense/Levels/TowerDefenseLevel.umap",
 				"C:/Users/isanr/Documents/Unreal Projects/MyProject/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"C:/Users/isanr/Documents/Unreal Projects/MyProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/Users/isanr/Documents/Unreal Projects/MyProject/Content/BP_Enemy.uasset",
