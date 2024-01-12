@@ -1,7 +1,0 @@
-Breadcrumbs 'RHIThread'
-Context 1/2
-	00 Scene
-	01 Scene
-	02 ShadowDepths
-	03 RenderVirtualShadowMaps(Non-Nanite)
-	04 Batched
